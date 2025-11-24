@@ -32,4 +32,8 @@ Project Title: Calorie Tracker
 	 •	Test quitting the app using ‘q’ and verify data saves correctly.
 	 •	Run the app on a different day to confirm daily reset functionality.
 	 •	Enter invalid or edge-case inputs to ensure input validation works properly.
+	 <img width="1280" height="871" alt="image" src="https://github.com/user-attachments/assets/40f68cd2-fbd6-4fd2-ada5-dc1d32ad3eef" />
+	 
+
+
    
